@@ -1,0 +1,31 @@
+You are given P&L (profit and loss) responsibility of a 
+segment at Ruby Card Finance Limited. 
+This is like a CEO position.
+The company issues credit cards to blue collar workers 
+(like Swiggy delivery boys), SME business owners 
+(like a shop keeper) etc. 
+The segment you are given control of is called 
+‘Good bureau high volume transactors’.
+However, there is a problem - 
+You can see that month on month your loss rates are 
+creeping up in this segment by annualized 100 basis points 
+, and you need to turn around the profitability of this 
+segment in the next three months. 
+
+- Q1. Make a detailed proposal on how you will solve 
+this. Do industry research (or read reports) for the 
+same. Please link/cite the reports you have read to make 
+this proposal 
+
+- Q2. SUPER IMPORTANT - List down ALL the questions 
+that you need answers for to successfully craft a 
+strategy to increase profitability of this segment. 
+Think of the questions in two ways 
+1) you are asking these questions to customers 
+2) you are asking this questions to Google (for self research).
+
+
+Solution:  How the loss is being calculated ?
+           What factors are based on the loss ?
+
+Understanding life of loan loss concept to understnd CECL 
